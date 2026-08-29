@@ -1,4 +1,4 @@
-# AI Adaptive Study Buddy
+# AI Study Buddy
 
 > **"Most AI study tools answer questions. AI Study Buddy learns from your performance and continuously changes how it teaches you."**
 
